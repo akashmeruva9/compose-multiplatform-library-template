@@ -95,15 +95,15 @@ mavenPublishing {
         }
         developers {
             developer {
-                id.set("username")
-                name.set("User Name")
-                url.set("https://github.com/username/")
+                id.set("akashmeruva9")
+                name.set("Akash Meruva")
+                url.set("https://github.com/akashmeruva9/")
             }
         }
         scm {
-            url.set("https://github.com/username/mylibrary/")
-            connection.set("scm:git:git://github.com/username/mylibrary.git")
-            developerConnection.set("scm:git:ssh://git@github.com/username/mylibrary.git")
+            url.set("https://github.com/akashmeruva9/compose-multiplatform-library-template")
+            connection.set("scm:git:git://github.com/akashmeruva9/compose-multiplatform-library-template.git")
+            developerConnection.set("scm:git:ssh://git@github.com/akashmeruva9/compose-multiplatform-library-template.git")
         }
     }
 }
